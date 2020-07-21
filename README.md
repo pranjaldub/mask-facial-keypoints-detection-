@@ -1,5 +1,5 @@
 # mask/facial keypoints detection 
- This repo contains mask , headpose and facial keypoints detection python notebooks
+ This repo contains  Pytorch implementation of mask , headpose and facial keypoints detection python notebooks
  Steps :
  -Clone repo
  -download saved models and datasets from links provided in readme.txt file
@@ -11,8 +11,8 @@
 
 
 Created by :
-Pranjal Dubey
-Sahaj Kapoor
-Jeet Banik
-Anup Shenoy
+Pranjal Dubey,
+Sahaj Kapoor,
+Jeet Banik,
+Anup Shenoy,
 Archana Yadav
