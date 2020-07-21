@@ -8,3 +8,11 @@
  -update paths for dataset and saved models 
  -Run the 'testing_models.py' file under 'inference code' folder
  -ENJOY !
+
+
+Created by :
+Pranjal Dubey
+Sahaj Kapoor
+Jeet Banik
+Anup Shenoy
+Archana Yadav
