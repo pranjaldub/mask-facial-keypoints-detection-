@@ -9,4 +9,3 @@
  -Run the 'testing_models.py' file under 'inference code' folder
  -ENJOY !
 
--Developed along with [Jeet Banik](https://github.com/jeetbanik)
