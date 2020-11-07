@@ -1,4 +1,4 @@
-# mask/facial keypoints detection 
+# Head Pose Estimation
  This repo contains  Pytorch implementation of mask , headpose and facial keypoints detection python notebooks
  Steps :
  -Clone repo
